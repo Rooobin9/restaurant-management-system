@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LYH22\\Group Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DC88589-97C8-4451-A58B-2B4573224822}|Group Project.vcxproj|D:\\LYH22\\Group Project\\ProjectA.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DC88589-97C8-4451-A58B-2B4573224822}|Group Project.vcxproj|solutionrelative:ProjectA.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjectA.cpp",
+              "DocumentMoniker": "D:\\LYH22\\Group Project\\ProjectA.cpp",
+              "RelativeDocumentMoniker": "ProjectA.cpp",
+              "ToolTip": "D:\\LYH22\\Group Project\\ProjectA.cpp",
+              "RelativeToolTip": "ProjectA.cpp",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAK0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-01T21:03:36.653Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
